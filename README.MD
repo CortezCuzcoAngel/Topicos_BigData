@@ -26,4 +26,5 @@
 #####
 
 © 2026 Angel Cortez Cuzco
-Este trabajo esta Bajo Licencia [Creative Commons Attribution 4.0 International](LICENCE)
+
+Este trabajo esta Bajo Licencia [Creative Commons Attribution 4.0 International](LICENSE)
